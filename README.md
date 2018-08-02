@@ -1,1 +1,1 @@
-# electivesIT
+Repository for IT Electives
